@@ -1,0 +1,6 @@
+spring.application.name=
+server.port=
+eureka.client.register-with-eureka=
+eureka.client.fetch-registry=
+eureka.instance.nonSecurePortEnabled=
+eureka.instance.securePortEnabled=
